@@ -21,7 +21,7 @@
     "techs": [
       {
         "name": "Animal Warfare",
-        "row": 5,
+        "row": 4,
         "prerequisites": ["Domestication"],
         "quote": "Gives you the oppurtinity to domesticate many different animals for war usage."
       }
