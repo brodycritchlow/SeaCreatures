@@ -8,9 +8,17 @@
       {
         "name": "Domestication",
         "row": 4,
-        "prerequisites": ["Trapping"],
+        "prerequisites": ["Horseback Riding"],
         "quote": "Gives you the oppurtinity to domesticate many different animals"
-      },
+      }
+    ]
+  },
+  {
+    "columnNumber": 5,
+    "era": "Classical era",
+    "buildingCost": 0,
+    "wonderCost": 0,
+    "techs": [
       {
         "name": "Animal Warfare",
         "row": 5,
