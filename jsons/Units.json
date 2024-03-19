@@ -37,11 +37,11 @@
 	},
 	{
 		"name": "Shark",
-		"unitType": "Scouting Animal",
+		"unitType": "Warfare Animal",
 		"movement": 8,
 		"strength": 50,
 		"cost": 320,
-		"requiredTech": "Warfare Warfare",
+		"requiredTech": "Animal Warfare",
 		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
