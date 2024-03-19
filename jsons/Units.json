@@ -6,7 +6,7 @@
 		"strength": 5,
 		"cost": 60,
 		"requiredTech": "Domestication",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Crab",
@@ -15,7 +15,7 @@
 		"strength": 15,
 		"cost": 85,
 		"requiredTech": "Domestication",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Squid",
@@ -24,7 +24,7 @@
 		"strength": 8,
 		"cost": 125,
 		"requiredTech": "Domestication",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Turtle",
@@ -33,7 +33,7 @@
 		"strength": 20,
 		"cost": 150,
 		"requiredTech": "Domestication",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Shark",
@@ -42,7 +42,7 @@
 		"strength": 50,
 		"cost": 320,
 		"requiredTech": "Animal Warfare",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Whale",
@@ -51,6 +51,6 @@
 		"strength": 70,
 		"cost": 600,
 		"requiredTech": "Animal Warfare",
-		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Sight I", "Sight II", "Sight III"],
+		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 ]
