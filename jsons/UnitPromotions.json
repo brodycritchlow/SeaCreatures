@@ -3,21 +3,21 @@
 		"name": "Swim Speed I",
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Creature"],
-    "column": 7,
+    "column": 9,
     "row": 1
 	},
   {
 		"name": "Swim Speed II",
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Creature"],
-    "column": 7,
+    "column": 9,
     "row": 2
 	},
   {
 		"name": "Swim Speed III",
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Creature"],
-    "column": 7,
+    "column": 9,
     "row": 3
 	},
   {
