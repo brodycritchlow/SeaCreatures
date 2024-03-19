@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Fish",
-		"unitType": "Creature",
+		"unitType": "Scouting Animal",
 		"movement": 4,
 		"strength": 5,
 		"cost": 60,
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Crab",
-		"unitType": "Creature",
+		"unitType": "Scouting Animal",
 		"movement": 6,
 		"strength": 15,
 		"cost": 85,
@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Squid",
-		"unitType": "Creature",
+		"unitType": "Scouting Animal",
 		"movement": 7,
 		"strength": 8,
 		"cost": 125,
@@ -28,7 +28,7 @@
 	},
 	{
 		"name": "Turtle",
-		"unitType": "Creature",
+		"unitType": "Scouting Animal",
 		"movement": 8,
 		"strength": 20,
 		"cost": 150,
@@ -37,16 +37,16 @@
 	},
 	{
 		"name": "Shark",
-		"unitType": "Creature",
+		"unitType": "Scouting Animal",
 		"movement": 8,
 		"strength": 50,
 		"cost": 320,
-		"requiredTech": "Animal Warfare",
+		"requiredTech": "Warfare Warfare",
 		"promotions": ["Swim Speed I","Swim Speed II", "Swim Speed III", "Scouting I", "Scouting II", "Scouting III"],
 	},
 	{
 		"name": "Whale",
-		"unitType": "Creature",
+		"unitType": "Warfare Animal",
 		"movement": 8,
 		"strength": 70,
 		"cost": 600,
