@@ -1,0 +1,22 @@
+[
+  {
+    "columnNumber": 4,
+    "era": "Classical era",
+    "buildingCost": 0,
+    "wonderCost": 0,
+    "techs": [
+      {
+        "name": "Domestication",
+        "row": 4,
+        "prerequisites": ["Trapping"],
+        "quote": "Gives you the oppurtinity to domesticate many different animals"
+      },
+      {
+        "name": "Animal Warfare",
+        "row": 4,
+        "prerequisites": ["Domestication"],
+        "quote": "Gives you the oppurtinity to domesticate many different animals for war usage."
+      }
+    ]
+  }
+]
