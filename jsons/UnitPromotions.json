@@ -2,22 +2,22 @@
   {
 		"name": "Swim Speed I",
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Creature"],
+		"unitTypes": ["Scouting Animal"],
 	},
   {
 		"name": "Swim Speed II",
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Creature"],
+		"unitTypes": ["Scouting Animal"],
 	},
   {
 		"name": "Swim Speed III",
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Creature"],
+		"unitTypes": ["Scouting Animal"],
 	},
   {
 		"name": "Scouting I",
 		"uniques": ["[+1] Sight"],
-		"unitTypes": ["Scout","Creature"],
+		"unitTypes": ["Scout","Scouting Animal"],
         "column": 8,
         "row": 1
 	},
@@ -25,7 +25,7 @@
 		"name": "Scouting II",
 		"prerequisites": ["Scouting I"],
 		"uniques": ["[+1] Sight"],
-		"unitTypes": ["Scout","Creature"],
+		"unitTypes": ["Scout","Scouting Animal"],
         "column": 8,
         "row": 2
 	},
@@ -33,8 +33,42 @@
 		"name": "Scouting III",
 		"prerequisites": ["Scouting II"],
 		"uniques": ["[+1] Sight"],
-		"unitTypes": ["Scout","Creature"],
+		"unitTypes": ["Scout","Scouting Animal"],
         "column": 8,
         "row": 3
 	},
+	{
+		"name": "Frenzy I",
+		"uniques": ["[+25]% Strength <when attacking>"],
+		"unitTypes": ["Warfare Animal"]
+	},
+	{
+		"name": "Frenzy II",
+		"prerequisites": ["Frenzy I"],
+		"uniques": ["[+25]% Strength <when attacking>"],
+		"unitTypes": ["Warfare Animal"]
+	},
+	{
+		"name": "Frenzy III",
+		"prerequisites": ["Frenzy II"],
+		"uniques": ["[+25]% Strength <when attacking>"],
+		"unitTypes": ["Warfare Animal"]
+	},
+	{
+		"name": "Waterfight I",
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Warfare Animal"]
+	},
+	{
+		"name": "Waterfight II",
+		"prerequisites": ["Waterfight I"],
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Warfare Animal"]
+	},
+	{
+		"name": "Waterfight III",
+		"prerequisites": ["Waterfight II"],
+		"uniques": ["[+15]% Strength <vs [Water] units>"],
+		"unitTypes": ["Warfare Animal"]
+	}
 ]
