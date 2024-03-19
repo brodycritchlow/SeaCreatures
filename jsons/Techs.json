@@ -13,7 +13,7 @@
       },
       {
         "name": "Animal Warfare",
-        "row": 4,
+        "row": 3,
         "prerequisites": ["Domestication"],
         "quote": "Gives you the oppurtinity to domesticate many different animals for war usage."
       }
