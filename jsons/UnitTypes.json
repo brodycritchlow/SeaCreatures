@@ -1,6 +1,10 @@
 [
   {
-    "name": "Creature",
+    "name": "Warfare Animal",
+    "movementType": "Water",
+  },
+  {
+    "name": "Scouting Animal",
     "movementType": "Water",
   }
 ]
